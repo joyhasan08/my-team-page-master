@@ -19,7 +19,7 @@ header{
 footer>p{
     margin: 0 auto;
     align-items: center;
-    border: solid seagreen;
+    
 }
 
 
@@ -37,37 +37,36 @@ main{
 }
 .face>img{
     height: 200px;
-    border: solid yellow ;
+    
     width: 100%;
     
 }
 .itame-5 {
     margin-top: 20%;
-    border: solid sienna;
+    
 }
 .itame-2{
     margin-top: 20%;
-    border: solid sienna;
+    
 }
 .pic{
     display: flex;
     flex-wrap: ;
     gap: 0%;
-    border: solid blue;
+    
 }
 .position { 
-   transform: rotate(90deg) ;
-    
-    border: solid gold;
+    transform: rotate(90deg) ;
+ 
     height: 10%;
     margin-top: 10%;
-    margin-left: 0px;
+    margin-left: -30px;
     
 }
 .itame{
-    border: dashed yellowgreen;
+    
 }
 .face{
-    border: solid red;
-    ma
+  
+   
 }
